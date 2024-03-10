@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710038524011,
+      "tag": "0000_broken_mysterio",
+      "breakpoints": true
+    }
+  ]
+}
